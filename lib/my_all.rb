@@ -10,7 +10,7 @@ def my_all?(collection)
 
   if block_return_values.iniclude?(false)
     false
-  else 
+  else
     true
   end
 end
